@@ -107,13 +107,14 @@ By following these steps, you should have a well-structured and functional React
 
 
 <h2>Deployment</h2>
-#Deploy on Vercel
-1. Sign up on [Vercel](https://vercel.com/) if you don’t already have an account.
-2. Connect your GitHub repository:
+<ul>#Deploy on Vercel
+<li>1. Sign up on [Vercel](https://vercel.com/) if you don’t already have an account.</li>
+<li>2. Connect your GitHub repository:</li>
    - Click “New Project” and select your GitHub repository containing the quiz app.
    - Vercel will automatically detect it’s a React app.
-3. Configure your project: Set the build and output settings (Vercel will often auto-detect these for React).
-4. Deploy: Click the "Deploy" button, and Vercel will handle the deployment process. Your app will be live with a unique URL that you can share.
+<li>3. Configure your project: Set the build and output settings (Vercel will often auto-detect these for React).</li>
+<li>4. Deploy: Click the "Deploy" button, and Vercel will handle the deployment process. Your app will be live with a unique URL that you can share.</li>
+</ul>
 <h2>Usage</h2>
 <hr><p>Educational:</p>
 <p>Classroom Quizzes: Teachers can use the application to create quizzes for students to assess their understanding of a particular topic.
