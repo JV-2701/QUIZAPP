@@ -102,7 +102,19 @@ Additional Notes:</p>
 <p>You can modify the db.json file to add more questions and customize the quiz content.
 Adjust the http://localhost:3000/questions API endpoint in the Quiz component if you're using a different API or server.
 Customize the styles in the styles.css file to match your desired design.
-By following these steps, you should have a well-structured and functional React quiz application ready for development and customization.</p><h2>Usage</h2>
+By following these steps, you should have a well-structured and functional React quiz application ready for development and customization.</p>
+ Deploy the Application Online**
+
+
+<h2>Deployment</h2>
+#Deploy on Vercel
+1. Sign up on [Vercel](https://vercel.com/) if you don’t already have an account.
+2. Connect your GitHub repository:
+   - Click “New Project” and select your GitHub repository containing the quiz app.
+   - Vercel will automatically detect it’s a React app.
+3. Configure your project: Set the build and output settings (Vercel will often auto-detect these for React).
+4. Deploy: Click the "Deploy" button, and Vercel will handle the deployment process. Your app will be live with a unique URL that you can share.
+<h2>Usage</h2>
 <hr><p>Educational:</p>
 <p>Classroom Quizzes: Teachers can use the application to create quizzes for students to assess their understanding of a particular topic.
 Online Courses: Online course platforms can integrate the quiz application into their courses to provide interactive quizzes for learners.
