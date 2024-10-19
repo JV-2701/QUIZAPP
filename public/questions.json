@@ -31,19 +31,19 @@
     },
     {
         "id": 6,
-        "question": "What does 'HTTP' stand for?",
+        "question": "What does 'HTTP' stand for in web technologies?",
         "options": ["HyperText Transfer Protocol", "HyperTransfer Text Protocol", "HyperThread Transfer Protocol", "Hyperlink Transfer Protocol"],
         "correctAnswer": "HyperText Transfer Protocol"
       },
       {
         "id": 7,
-        "question": "Which programming language is known as the backbone of web development?",
+        "question": "Which programming language is crucial in web development?",
         "options": ["JavaScript", "Python", "C++", "Ruby"],
         "correctAnswer": "JavaScript"
       },
       {
         "id": 8,
-        "question": "Which protocol is used for securely transmitting data over the internet?",
+        "question": "Protocol is used for transmitting data over the internet?",
         "options": ["HTTPS", "FTP", "SMTP", "TCP"],
         "correctAnswer": "HTTPS"
       },
