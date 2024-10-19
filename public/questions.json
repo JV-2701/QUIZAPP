@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "Here is your first question: What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct answer, What is the capital city of India?",
+      "options": ["Mumbai", "Delhi", "Bangalore", "Chennai"],
+      "correctAnswer": "Delhi"
+    },
+    {
+      "id": 4,
+      "question": "Who is the author of the famous novel 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Emily Bronte", "Charlotte Bronte", "Virginia Woolf"],
+      "correctAnswer": "Jane Austen"
+    },
+    {
+      "id": 5,
+      "question": "If you know the periodic table, the chemical symbol for gold is?",
+      "options": ["Ag", "Au", "Cu", "Fe"],
+      "correctAnswer": "Au"
+    },
+    {
+        "id": 6,
+        "question": "What does 'HTTP' stand for?",
+        "options": ["HyperText Transfer Protocol", "HyperTransfer Text Protocol", "HyperThread Transfer Protocol", "Hyperlink Transfer Protocol"],
+        "correctAnswer": "HyperText Transfer Protocol"
+      },
+      {
+        "id": 7,
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": ["JavaScript", "Python", "C++", "Ruby"],
+        "correctAnswer": "JavaScript"
+      },
+      {
+        "id": 8,
+        "question": "Which protocol is used for securely transmitting data over the internet?",
+        "options": ["HTTPS", "FTP", "SMTP", "TCP"],
+        "correctAnswer": "HTTPS"
+      },
+      {
+        "id": 9,
+        "question": "Which database is known for its non-relational structure?",
+        "options": ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
+        "correctAnswer": "MongoDB"
+      },
+      {
+        "id": 10,
+        "question": "What is the full form of 'CSS' in web design?",
+        "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Control Style Sheets"],
+        "correctAnswer": "Cascading Style Sheets"
+      }
+  ]
+  

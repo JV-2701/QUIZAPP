@@ -10,13 +10,13 @@ const Quiz = () => {
   const [loading, setLoading] = useState(true); 
   const [error, setError] = useState(null);  
   const [timeLeft, setTimeLeft] = useState(30);
-    const [userAnswers, setUserAnswers] = useState([]); 
+  const [userAnswers, setUserAnswers] = useState([]); 
   const navigate = useNavigate();
 
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        const res = await fetch('http://localhost:3000/questions');  // Fetch from API
+        const res = await fetch('/questions.json');  // Fetch from the local JSON file
         if (!res.ok) throw new Error('Failed to fetch questions');
         const data = await res.json();
         setQuestions(data || []);  
